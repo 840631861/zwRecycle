@@ -1,11 +1,9 @@
-# RecycleItemHelpDemo
+# zwRecycle
 仿写网易新闻客户端，顶部tabs，滑动排序，增加删除
 比传统效果更好。
-### 仿写网易新闻客户端头部tabs选择频道:RecycleView&ItemTouchHelp。*
+### 参考项目:RecycleView&ItemTouchHelp，更改：点击编辑按钮删除改为长按显示删除按钮，解决长按拖动删除时position错乱问题。*
 
-####友情提示：观看本文，请结合代码看，为了版面的整洁和突出重点，本文没有过多的介绍基础代码。
-
-####源码地址：
+####参考项目：
 ####[https://github.com/huyue05/ItemTouchHelper-RecycleView](https://github.com/huyue05/ItemTouchHelper-RecycleView)
 
 #### 以下是演示图片
