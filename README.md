@@ -7,4 +7,4 @@
 ####[https://github.com/huyue05/ItemTouchHelper-RecycleView](https://github.com/huyue05/ItemTouchHelper-RecycleView)
 
 #### 以下是演示图片
-https://github.com/840631861/zwRecycle/blob/master/images/gif5%E6%96%B0%E6%96%87%E4%BB%B6.gif
+![image](https://github.com/840631861/zwRecycle/blob/master/images/gif5%E6%96%B0%E6%96%87%E4%BB%B6.gif)
