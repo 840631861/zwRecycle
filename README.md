@@ -7,7 +7,7 @@
 ####[https://github.com/huyue05/ItemTouchHelper-RecycleView](https://github.com/huyue05/ItemTouchHelper-RecycleView)
 
 #### 以下是演示图片
-![这是演示图片](http://img.blog.csdn.net/20160720144155026?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
 ###核心：
 - RecycleView的使用，将子布局转换成类似GridView的模式。适配好。
 - 学会ItemTouchHelp的使用，ItemTouchHelp是为了方便管理RecycleView拖拽而产生的一个类。
