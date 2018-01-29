@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_height="100dp"
+        android:layout_width="match_parent"
+        android:layout_margin="2dp"
+        android:id="@+id/item"
+        android:background="@drawable/recycler_selector">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:layout_centerInParent="true">
+        <ImageView
+            android:id="@+id/img"
+            android:src="@mipmap/ic_recycler_item_9"
+            android:layout_height="40dp"
+            android:layout_width="40dp"
+            android:scaleType="fitXY"
+            />
+
+        <TextView
+            android:id="@+id/txt"
+            android:text="名称"
+            android:textSize="15sp"
+            android:layout_marginLeft="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:textColor="#888888"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:padding="1dp"
+            android:gravity="center"
+            />
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/img_delete"
+        android:visibility="gone"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:src="@mipmap/ic_delete"
+
+        />
+</RelativeLayout>
